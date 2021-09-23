@@ -1,0 +1,120 @@
+*{
+margin: 0;
+padding:0;
+font-family: 'Roboto', sans-serif; 
+background-color: #E5E5E5;
+box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+h1{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 41px;
+    letter-spacing: 0.41px;
+    padding: 70px;
+    padding-inline: 15px;
+    padding-bottom: 20px;
+    color: #000000;
+    background-color: #FFFFFF;}
+    
+
+h2{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: 0.41px;
+    color: rgba(0, 0, 0, 0.5);
+    background-color: #FFFFFF;
+    margin:0 16px 102px 16px}
+
+input{
+    height: 48px;
+    width: 343px;
+    border: none;
+    left: 16px;
+    top: 20px;
+    display: block;
+    font-size: 16px;
+    line-height: 22px;
+    margin: 0 auto;
+    padding-left: 25px;
+    border-radius: 7px;
+    background-color: #F2F2F7;
+    margin: 12px 0 17px;}
+
+  input  ::placeholder{
+    color:#929292;}
+    
+
+.forgot-password {
+    background-color: #FFFFFF;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    margin: 236px 0 16px;
+    padding-left:  220px;
+    padding-bottom: 16px;
+    letter-spacing: -0.41px;
+    color: #007AFF
+}
+    
+
+
+ button{
+height: 48px;
+width: 343px;
+left: 16px;
+border-radius: 10px;
+background:#000000;
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+margin: 59px 0 20px;
+line-height: 22px;
+text-align: center;
+border: none;
+display: block;
+margin-bottom: 200px;
+text-align: center;
+color: #FFFFFF; 
+ }
+.account{
+height: 19px;
+width: 225px;
+left: 75px;
+top: 754px;
+margin:75px 39px 75px;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+color: #979797;
+background-color: #FFFFFF;
+
+}
+
+strong{
+color:#007AFF;
+background-color: #FFFFFF;
+
+}
+
+.content{
+    background-color: #FFFFFF;
+    height: 812px;
+    width:  385px;
+    left:   392px;
+    border-radius: 0px;
+    position: relative;
+    margin-right: auto;
+    text-align: left;
+    
+    
+}
+
